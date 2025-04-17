@@ -14,7 +14,6 @@ This is a SwiftUI app that displays a list of recipes fetched from a remote API.
 ![App Malformed JSON](screenshots/malformed.png)
 ![App Empty State](screenshots/empty.png)
 
-(Or include a video walkthrough/gif)
 
 ---
 
