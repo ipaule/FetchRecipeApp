@@ -10,9 +10,9 @@ This is a SwiftUI app that displays a list of recipes fetched from a remote API.
 - A refresh button to reload data
 - MVVM architecture with clean folder structure
 
-![App Screenshot](screenshots/list.png)
-![App Malformed JSON](screenshots/malformed.png)
-![App Empty State](screenshots/empty.png)
+<img src="screenshots/list.png" width="300" />
+<img src="screenshots/malformed.png" width="300" />
+<img src="screenshots/empty.png" width="300" />
 
 
 ---
