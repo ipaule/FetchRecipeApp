@@ -19,9 +19,9 @@ final class RecipeListViewModel: ObservableObject {
         isLoading = true
         error = nil
         do {
-            let url = URL(string: "https://d3jbb8n5wk0qxi.cloudfront.net/recipes.json")!
+            //let url = URL(string: "https://d3jbb8n5wk0qxi.cloudfront.net/recipes.json")!
             //let url = URL(string: "https://d3jbb8n5wk0qxi.cloudfront.net/recipes-malformed.json")!
-            //let url = URL(string: "https://d3jbb8n5wk0qxi.cloudfront.net/recipes-empty.json")!
+            let url = URL(string: "https://d3jbb8n5wk0qxi.cloudfront.net/recipes-empty.json")!
             recipes = try await service.fetchRecipes(from: url)
         } catch {
             self.error = "Failed to load recipes."
