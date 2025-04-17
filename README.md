@@ -12,7 +12,7 @@ This is a SwiftUI app that displays a list of recipes fetched from a remote API.
 
 <h3>📸 Screenshots</h3>
 
-<p align="center">
+<p align="left">
   <img src="screenshots/list.png" width="250" />
   <img src="screenshots/malformed.png" width="250" />
   <img src="screenshots/empty.png" width="250" />
