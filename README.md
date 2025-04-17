@@ -36,10 +36,10 @@ I prioritized these areas because they represent production-ready expectations: 
 
 ## ⏱ Time Spent
 
-**~6–7 hours total**, broken down as:
-- 2 hrs: UI scaffolding (SwiftUI layout + row view)
-- 2 hrs: Networking + decoding logic
-- 2 hrs: Image caching logic + verification
+**~4–5 hours total**, broken down as:
+- 1 hrs: UI scaffolding (SwiftUI layout + row view)
+- 1 hrs: Networking + decoding logic
+- 1 hrs: Image caching logic + verification
 - 1.5 hrs: Debugging edge cases, cleanup, README
 
 ---
